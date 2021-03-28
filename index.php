@@ -46,7 +46,7 @@
               echo '<table class="table table-bordered table-striped">';
               echo "<thead>";
               echo "<tr>";
-              echo "<th>#</th>";
+              echo "<th>id</th>";
               echo "<th>Name</th>";
               echo "<th>Address</th>";
               echo "<th>Salary</th>";
